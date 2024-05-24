@@ -1,7 +1,7 @@
 export default function customers () {
     return(
         <>
-        <p>Customers</p>
+        <p>Customers Content</p>
         </>
     )
 }
